@@ -99,7 +99,7 @@ The application will:
 Open the browser:
 
 ```
-https://localhost:<port>
+https://localhost:7013
 ```
 
 (The port number will appear in the terminal.)
