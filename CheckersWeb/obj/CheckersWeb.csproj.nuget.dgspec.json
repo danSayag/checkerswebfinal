@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\CheckersWeb.csproj": {}
+    "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\CheckersWeb.csproj": {
+    "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\CheckersWeb.csproj",
+        "projectUniqueName": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj",
         "projectName": "CheckersWeb",
-        "projectPath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\CheckersWeb.csproj",
+        "projectPath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj",
         "packagesPath": "C:\\Users\\dansa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\obj\\",
+        "outputPath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

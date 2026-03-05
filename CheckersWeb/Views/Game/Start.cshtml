@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Start Game";
+    var opponents = ViewBag.Opponents as List<SelectListItem> ?? new();
+}
+
+<h2 class="text-center mt-4">Start a New Game</h2>
+
+<div class="container mt-4" style="max-width: 520px;">
+    <form asp-controller="Game" asp-action="Start" method="post">
+        @Html.AntiForgeryToken()
+
+        <label class="form-label">Choose Opponent</label>
+        <select class="form-select" name="opponentId" required>
+            <option value="">-- Select opponent --</option>
+            @foreach (var o in opponents)
+            {
+                <option value="@o.Value">@o.Text</option>
+            }
+        </select>
+
+        <button type="submit" class="btn btn-success mt-3 w-100">Create Game</button>
+    </form>
+
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary mt-3 w-100">Back</a>
+</div>

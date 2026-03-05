@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Invite";
+    var inviteUrl = (string)ViewBag.InviteUrl;
+    var gameId = (int)ViewBag.GameId;
+}
+
+@{
+    var online = ViewBag.OnlinePlayers as IEnumerable<string> ?? Enumerable.Empty<string>();
+}
+
+@foreach (var u in online)
+{
+    <li>@u</li>
+}
+
+<h2>Invite someone to your game</h2>
+
+<p><b>Game ID:</b> @gameId</p>
+
+<input id="inviteLink" value="@inviteUrl" style="width:650px" readonly />
+<button onclick="copyInvite()">Copy</button>
+
+<script>
+    function copyInvite() {
+        navigator.clipboard.writeText(document.getElementById("inviteLink").value);
+        alert("Copied!");
+    }
+</script>

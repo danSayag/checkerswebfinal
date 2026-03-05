@@ -39,7 +39,7 @@ namespace CheckersWeb.Controllers
             _db.Games.Add(game);
             await _db.SaveChangesAsync();
 
-            return RedirectToAction("Invite", new { gameId = game.Id });
+            return RedirectToAction("Index", new { gameId = game.Id });
         }
 
         [HttpGet]
@@ -111,10 +111,9 @@ namespace CheckersWeb.Controllers
             ViewBag.GameId = gameId;
             ViewBag.MyColor = (me?.Id == game.Player1Id) ? "white" : "black";
             ViewBag.WinnerId = game.WinnerId;
+            ViewBag.InviteUrl = $"{Request.Scheme}://{Request.Host}/Game/Join/{game.InviteCode}";
 
             return View(game);
         }
-
-       
     }
 }

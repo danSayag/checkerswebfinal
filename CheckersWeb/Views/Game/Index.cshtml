@@ -23,7 +23,7 @@
         <h2>Game Not Found</h2>
     }
 
-<div id="winner-banner" class="d-none" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:9999;display:flex;align-items:center;justify-content:center;">
+    <div id="winner-banner" class="d-none" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:9999;display:flex;align-items:center;justify-content:center;">
         <div style="background:white;border-radius:16px;padding:40px;text-align:center;max-width:400px;width:90%;box-shadow:0 8px 32px rgba(0,0,0,0.3);">
             <div style="font-size:3rem;">🏆</div>
             <h2 id="winner-text" style="margin:16px 0;font-weight:bold;"></h2>
@@ -35,6 +35,16 @@
         </div>
     </div>
     <div id="status" class="mb-2" style="font-size:1.1rem;"></div>
+
+    @if (Model?.Player2Id == null)
+    {
+        <div class="mb-3">
+            <span class="text-muted me-2">Waiting for opponent — share this link:</span>
+            <input id="inviteLink" value="@ViewBag.InviteUrl" readonly class="form-control d-inline-block w-auto" style="width:320px;" />
+            <button onclick="navigator.clipboard.writeText(document.getElementById('inviteLink').value).then(()=>this.textContent='Copied!')" class="btn btn-sm btn-outline-secondary ms-1">Copy</button>
+        </div>
+    }
+
     <div id="board" class="checkers-grid @(ViewBag.MyColor == "black" ? "board-flipped" : "")"></div>
 </div>
 

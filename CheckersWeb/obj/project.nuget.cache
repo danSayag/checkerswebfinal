@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78LuQuSSodg=",
+  "dgSpecHash": "NUbxwVTk5X0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\CheckersWeb\\CheckersWeb.csproj",
+  "projectFilePath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dansa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dansa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
