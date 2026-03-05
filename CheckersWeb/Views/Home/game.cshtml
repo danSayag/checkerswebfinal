@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Checkers Game";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true">
+}
+
+<div class="text-center">
+    <h2 class="mt-4">Player 1: @ViewData["User1"]</h2>
+
+    <div id="board" class="checkers-grid"></div>
+
+    <h2 class="mb-4">Player 2: @ViewData["User2"]</h2>
+
+    <button type="button" class="btn btn-primary btn-lg" id="createBoardBtn" onclick="initBoard()">
+        Start New Game
+    </button>
+</div>
+
+@section Scripts {
+    <script src="~/js/script.js" asp-append-version="true"></script>
+}

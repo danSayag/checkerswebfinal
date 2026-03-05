@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Join Game";
+    var gameId = (int)ViewBag.GameId;
+    var code = (string)ViewBag.Code;
+}
+
+<div class="text-center mt-5">
+    <h2>You've been invited to a Checkers game!</h2>
+    <p class="text-muted">Click below to join.</p>
+
+    <form method="post" action="/Game/AcceptInvite/@code">
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-primary btn-lg mt-3">Join Game</button>
+    </form>
+
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary mt-3">Back to Home</a>
+</div>

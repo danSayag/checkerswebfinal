@@ -1,0 +1,48 @@
+﻿@model CheckersWeb.Models.Game
+<link href="~/css/style.css" asp-append-version="true" rel="stylesheet" />
+
+<div class="text-center">
+    @if (Model != null)
+    {
+        <h2>Game #@Model.Id</h2>
+        <div class="d-flex justify-content-center gap-5 mb-2">
+            <div>
+                <span class="badge bg-light text-dark border" style="font-size:1rem;">
+                    ⬜ @ViewData["User1"] (White)
+                </span>
+            </div>
+            <div>
+                <span class="badge bg-dark" style="font-size:1rem;">
+                    ⬛ @ViewData["User2"] (Black)
+                </span>
+            </div>
+        </div>
+    }
+    else
+    {
+        <h2>Game Not Found</h2>
+    }
+
+<div id="winner-banner" class="d-none" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:9999;display:flex;align-items:center;justify-content:center;">
+        <div style="background:white;border-radius:16px;padding:40px;text-align:center;max-width:400px;width:90%;box-shadow:0 8px 32px rgba(0,0,0,0.3);">
+            <div style="font-size:3rem;">🏆</div>
+            <h2 id="winner-text" style="margin:16px 0;font-weight:bold;"></h2>
+            <p style="color:#666;margin-bottom:24px;">Game over!</p>
+            <div style="display:flex;gap:12px;justify-content:center;">
+                <a href="/" class="btn btn-success">🏠 Go Home</a>
+                <button onclick="document.getElementById('winner-banner').classList.add('d-none')" class="btn btn-secondary">Stay</button>
+            </div>
+        </div>
+    </div>
+    <div id="status" class="mb-2" style="font-size:1.1rem;"></div>
+    <div id="board" class="checkers-grid @(ViewBag.MyColor == "black" ? "board-flipped" : "")"></div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script>
+        window.gameId = @(ViewBag.GameId ?? Model?.Id ?? 0);
+        window.myColor = '@(ViewBag.MyColor ?? "white")';
+    </script>
+    <script src="~/js/script.js"></script>
+}

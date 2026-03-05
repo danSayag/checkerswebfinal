@@ -1,0 +1,15 @@
+﻿@model CheckersWeb.Models.User
+
+<form asp-action="loginForm" asp-controller="Home" >
+    <label class="mt-4">Username:</label>
+    <input class="form-control" asp-for="Username" placeholder="Enter Username Here" />
+    <br />
+
+    <label class="mt-4">Password:</label>
+    <input class="form-control" asp-for="Password" type="password" placeholder="Enter Password Here" />
+    <br />
+
+    <button class="btn btn-primary mt-4" type="submit">Login</button>
+
+    <div asp-validation-summary="All" class="text-danger mt-3"></div>
+</form>

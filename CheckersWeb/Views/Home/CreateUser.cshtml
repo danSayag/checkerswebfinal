@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Create User";
+}
+
+
+@model CheckersWeb.Models.User
+
+<body>
+    <form asp-action="createUserForm" asp-controller="Home" method="post">
+        <label>Name Of User:</label>
+        <input class="form-control" type="text" placeholder="Enter Name Here" asp-for="Name" /><br />
+
+        <label class="mt-4">Username:</label>
+        <input class="form-control" type="text" placeholder="Enter Username Here" asp-for="Username" /><br />
+
+        <label class="mt-4">Password:</label>
+        <input class="form-control" type="password" placeholder="Enter New Password" asp-for="Password" /><br />
+
+        <button class="btn btn-primary mt-4" type="submit">Create User</button>
+    </form>
+</body>
+

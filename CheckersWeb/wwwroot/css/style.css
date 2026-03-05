@@ -1,0 +1,74 @@
+﻿/* Unique class name to avoid Bootstrap conflicts */
+.checkers-grid {
+    display: grid !important;
+    background-color: #595a57;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px solid #333;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.whiteDiv {
+    background-color: #f0d9b5;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.blackDiv {
+    background-color: #b58863;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.game-cell {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .game-cell.selected {
+        outline: 4px solid red;
+        z-index: 10;
+    }
+
+    .game-cell.valid-move {
+        outline: 3px solid #2ecc71;
+        z-index: 9;
+        cursor: pointer;
+    }
+
+        .game-cell.valid-move::after {
+            content: '';
+            position: absolute;
+            width: 30%;
+            height: 30%;
+            border-radius: 50%;
+            background: rgba(46, 204, 113, 0.5);
+            pointer-events: none;
+        }
+
+.piece {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+    .piece:hover {
+        transform: scale(1.05);
+    }
+
+/* Flip the board for the black player so black pieces are at the bottom */
+.board-flipped {
+    transform: rotate(180deg);
+}
+
+    .board-flipped .game-cell {
+        transform: rotate(180deg);
+    }

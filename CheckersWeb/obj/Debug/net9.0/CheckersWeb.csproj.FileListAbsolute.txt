@@ -1,0 +1,446 @@
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\appsettings.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.staticwebassets.runtime.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.staticwebassets.endpoints.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.exe
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.deps.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.runtimeconfig.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.pdb
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.AssemblyInfoInputs.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.AssemblyInfo.cs
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.RazorAssemblyInfo.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.RazorAssemblyInfo.cs
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\bundle\CheckersWeb.styles.css
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\projectbundle\CheckersWeb.bundle.scp.css
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\z3rycc5nuq-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\twluf24p6w-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\z8xluh16b0-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\z9lz0jmdat-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\nhe8viupi3-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\c83bdfx3kn-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\m4n4njn2zh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\5qjm94x5sg-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ya5j20qfcq-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\7y9q9cjnbi-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\pzd54ved2g-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\nsgu59xdss-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\hjybm5vf9f-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\4eqxgzsn04-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\86ti4avqtj-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\c34rj34mgx-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\mg8dm1u12z-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\b270v6t1zg-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\f5haplhmnj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\jpljx77npy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2x080jbhkq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qt4ax0lnho-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ytw82l0h56-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\73lcb79np1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\6243uz0xpa-{0}-06098lyss8-06098lyss8.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\hlnxcf8h6x-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qh9i80c653-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\jt6cm6ypfo-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\lqyl28nhus-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\3ecj13r0tq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2hggjx7mry-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\n4tc5t0l58-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\346n519uq8-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\bvjhs6c7bu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\gpfms7zce2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\22oa002dxo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\4zxkpzz32v-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\l29woym7ip-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qgrauyjfav-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\5xb7yd90n4-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\w38ollmiw2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\9b6d43nky1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\vmm1f4nyml-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\894jv5m382-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\f9sk9qw944-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\gmz09pzp7z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\jarkvbin7p-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\75fe8q3lk5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\n80yey5ncr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2d726pt5wh-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qp4u4bpgly-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\3i46lpaeq3-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\no4iysy7d1-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\nyt7j5iw8m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2fwfx2o1mt-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\5yuehlufha-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\uveus1wgjm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\1w8d153tyg-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\rikmp5rm0y-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\4a7mykwsht-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\7xpxdel9p4-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\rg1kj1e34o-{0}-ay0sakrney-ay0sakrney.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ivg17e489k-{0}-ay0sakrney-ay0sakrney.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\refint\CheckersWeb.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.pdb
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.genruntimeconfig.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\ref\CheckersWeb.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.csproj.AssemblyReference.cache
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\Checkers.2899F772.Up2Date
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\appsettings.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.staticwebassets.runtime.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.staticwebassets.endpoints.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.exe
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.deps.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.runtimeconfig.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\CheckersWeb.pdb
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Humanizer.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.csproj.AssemblyReference.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.AssemblyInfoInputs.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.AssemblyInfo.cs
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.csproj.CoreCompileInputs.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.RazorAssemblyInfo.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.RazorAssemblyInfo.cs
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\bundle\CheckersWeb.styles.css
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\scopedcss\projectbundle\CheckersWeb.bundle.scp.css
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\whs55id2aj-b9sayid5wm.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qahhoxodsn-61n19gt1b8.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ma2xd914te-bqjiyaj88i.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2gvkp6989r-c2jlpeoesf.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qgka4yrarv-erw9l3u2r3.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\f1lo7rpj2c-aexeepp0ev.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\v3sx8q3njm-d7shbmvgxk.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\gv07x75dr8-ausgxo2sd3.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\mjvgr8mncw-k8d9w2qqmf.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\zvp75ivbor-cosvhxvwiu.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2ruema4ssr-ub07r2b239.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ht67x27p79-fvhpjtyr6v.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\5pdvgtdxke-b7pk76d08c.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\h5b2b1horx-fsbi9cje9m.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\0kse36h2zq-rzd6atqjts.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\map3vorln6-ee0r1s7dh0.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\vah612a7gz-dxx9fxp4il.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ueeteyb0hd-jd9uben2k1.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\edvvszsie7-khv3u5hwcm.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\5d2lktim9r-r4e9w2rdcm.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\zl8vp23hwi-lcd1t2u6c8.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\lllkcyxh5a-c2oey78nd0.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\zty8flfjjl-tdbxkamptv.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\w8gixnqx4s-j5mq2jizvt.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\boq29iorad-06098lyss8.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\x6tkvxbpbs-nvvlpmu67g.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\3cay3dl0m8-s35ty4nyc5.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\bc93sh2e24-pj5nd1wqec.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\s4op630zxp-46ein0sx1k.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\afy04iakhy-v0zj4ognzu.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\etp8nyp2cb-37tfw0ft22.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\cjvt4pg07f-hrwsygsryq.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\0lr9p0pq57-pk9g2wxc8p.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\h0kxysibid-ft3s53vfgj.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\995makz7tb-6cfz1n2cew.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\g6dfmvuqf5-6pdc2jztkx.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\e636qy58dk-493y06b0oq.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\gc3d0h1062-iovd86k7lj.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\mntlfrty8y-vr1egmr9el.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\p1uu3awpwh-kbrnm935zg.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\4dshkl9ppv-jj8uyg4cgr.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\p6g81v3hhu-y7v9cxd14o.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\0lwoesr33m-notf2xhcfb.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\8u6xafi2ou-h1s4sie4z3.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ti7dtppdnl-63fj8s7r0e.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qa4xinxso8-0j3bgjxly4.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\2t2to6fn3k-47otxtyo56.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\o94cssl8ls-4v8eqarkd7.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\q53fh67vq9-356vix0kms.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\xqx3wb9nn0-83jwlth58m.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\qsielk8f7l-mrlpezrjn3.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\wqcxmqkads-lzl9nlhx6b.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\cvmwoh40gu-ag7o75518u.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\6wa51gpxjz-x0q3zqp4vz.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\y880at01h6-0i3buxo5is.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\q7bevvh3ri-o1o13a6vjx.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\cw8mi1ukj9-ttgo8qnofa.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\ulm1qugkxh-2z0ns9nrw6.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\1x4gl9kijf-muycvpuwrr.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\i9do0mj02x-87fc7y1x7t.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\dvbxcrpkhz-mlv21k5csn.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\1dq4he5bi1-cvps700tg0.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\01vgoisgmf-cvps700tg0.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\Checkers.2899F772.Up2Date
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\refint\CheckersWeb.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.pdb
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\CheckersWeb.genruntimeconfig.cache
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\ref\CheckersWeb.dll
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\6fhjel7dmv-2plcrwx31n.gz
+C:\Users\דן סייג\OneDrive\שולחן העבודה\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\f3uixo3omz-lblbid0zts.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\hv2xji0jth-{0}-lblbid0zts-lblbid0zts.gz
+C:\Users\dansa\Desktop\CheckersWeb\CheckersWeb\obj\Debug\net9.0\compressed\j8gyh8crb1-{0}-83fuk7f3xi-83fuk7f3xi.gz

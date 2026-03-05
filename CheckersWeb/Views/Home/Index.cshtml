@@ -1,0 +1,110 @@
+﻿@model List<CheckersWeb.Models.Game>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Our Project</h1>
+
+    @if (User.Identity!.IsAuthenticated)
+    {
+        <h3>Welcome @User.Identity.Name 👋</h3>
+
+        <a asp-controller="Game" asp-action="Start" class="btn btn-success me-2">
+            + Create Game
+        </a>
+        <a asp-controller="Home" asp-action="Logout" class="btn btn-danger">
+            Logout
+        </a>
+    }
+    else
+    {
+        <a asp-controller="Home" asp-action="CreateUser" class="btn btn-primary me-2">
+            Create Account
+        </a>
+        <a asp-controller="Home" asp-action="Login" class="btn btn-primary">
+            Login
+        </a>
+    }
+</div>
+
+<div class="mt-5" style="max-width: 600px; margin: 2rem auto;">
+    <h4>🎮 Open Games</h4>
+
+    @if (Model == null || !Model.Any())
+    {
+        <p class="text-muted">No open games right now. Be the first to create one!</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Game #</th>
+                    <th>Host</th>
+                    <th>Status</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var game in Model)
+                {
+                    <tr>
+                        <td>#@game.Id</td>
+                        <td>@(game.Player1?.Name ?? "Unknown")</td>
+                        <td><span class="badge bg-warning text-dark">Waiting for opponent</span></td>
+                        <td>
+                            @if (User.Identity!.IsAuthenticated)
+                            {
+                                <a href="/Game/Join/@game.InviteCode" class="btn btn-sm btn-primary">Join</a>
+                            }
+                            else
+                            {
+                                <a asp-controller="Home" asp-action="Login" class="btn btn-sm btn-secondary">Login to Join</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+<div class="mt-4" style="max-width: 600px; margin: 2rem auto;">
+    <h4>🏆 Leaderboard</h4>
+
+    @{
+        var leaderboard = ViewBag.Leaderboard as IEnumerable<dynamic>;
+    }
+
+    @if (leaderboard == null || !leaderboard.Any())
+    {
+        <p class="text-muted">No completed games yet.</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Player</th>
+                    <th>Wins</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int rank = 1;
+                }
+                @foreach (var entry in leaderboard)
+                {
+                    <tr>
+                        <td>@rank</td>
+                        <td>@entry.Username</td>
+                        <td>@entry.Wins</td>
+                    </tr>
+                    rank++;
+                }
+            </tbody>
+        </table>
+    }
+</div>
