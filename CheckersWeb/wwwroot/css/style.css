@@ -72,3 +72,10 @@
     .board-flipped .game-cell {
         transform: rotate(180deg);
     }
+
+
+@media (max-width: 700px) {
+    #sidebar {
+        display: none;
+    }
+}

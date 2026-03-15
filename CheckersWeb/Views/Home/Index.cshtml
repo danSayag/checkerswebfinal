@@ -24,6 +24,56 @@
         </a>
     }
 </div>
+
+@if (User.Identity!.IsAuthenticated)
+{
+    var myGames = ViewBag.MyGames as IEnumerable<dynamic>;
+    if (myGames != null && myGames.Any())
+    {
+        <div class="mt-4" style="max-width:600px; margin: 1.5rem auto;">
+            <h4>⚔️ Your Active Games</h4>
+            <table class="table table-bordered table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Game #</th>
+                        <th>Opponent</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var g in myGames)
+                    {
+                        <tr>
+                            <td>#@g.Id</td>
+                            <td>@g.Opponent</td>
+                            <td>
+                                @if (g.MyTurn)
+                                {
+                                    <span class="badge bg-success">Your turn</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-secondary">Their turn</span>
+                                }
+                            </td>
+                            <td>
+                                <a href="/Game/Index?gameId=@g.Id" class="btn btn-sm btn-primary me-1">Resume</a>
+                                <form method="post" asp-controller="Home" asp-action="QuitGame" style="display:inline;"
+                                      onsubmit="return confirm('Are you sure you want to quit? You will lose this game.');">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="gameId" value="@g.Id" />
+                                    <button type="submit" class="btn btn-sm btn-danger">Quit</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+}
+
 <div class="mt-5" style="max-width: 600px; margin: 2rem auto;">
     <h4>🎮 Open Games</h4>
     @if (Model == null || !Model.Any())
@@ -64,6 +114,7 @@
         </table>
     }
 </div>
+
 <div class="mt-4" style="max-width: 600px; margin: 2rem auto;">
     <h4>🏆 Leaderboard</h4>
     @{

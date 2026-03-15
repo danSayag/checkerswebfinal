@@ -3,8 +3,9 @@
     "",
     "\\CheckersWeb",
     "\\CheckersWeb\\Views",
+    "\\CheckersWeb\\Views\\Game",
     "\\CheckersWeb\\Views\\Home"
   ],
-  "SelectedNode": "\\CheckersWeb\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\CheckersWeb\\Views\\Game\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

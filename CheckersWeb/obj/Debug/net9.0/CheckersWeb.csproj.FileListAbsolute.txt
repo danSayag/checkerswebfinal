@@ -592,7 +592,6 @@ C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\scopedcss\bundle\CheckersWeb.styles.css
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\scopedcss\projectbundle\CheckersWeb.bundle.scp.css
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\z3rycc5nuq-{0}-b9sayid5wm-b9sayid5wm.gz
-C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\hv2xji0jth-{0}-lblbid0zts-lblbid0zts.gz
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\twluf24p6w-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\j8gyh8crb1-{0}-83fuk7f3xi-83fuk7f3xi.gz
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\z8xluh16b0-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -668,3 +667,5 @@ C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\CheckersWeb.pdb
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\CheckersWeb.genruntimeconfig.cache
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\ref\CheckersWeb.dll
+C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\hv2xji0jth-{0}-i47npkowkg-i47npkowkg.gz
+C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\compressed\3fabo2h0l8-{0}-i3t1wapxww-i3t1wapxww.gz

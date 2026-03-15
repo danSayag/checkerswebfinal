@@ -1,6 +1,5 @@
 ﻿using CheckersWeb.Data;
 using CheckersWeb.Models;
-using CheckersWeb.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -11,15 +10,21 @@ namespace CheckersWeb.Controllers
     [Authorize]
     public class GameController : Controller
     {
-        private readonly UserDbContex _db;
+        private readonly UserDbContex _db; 
 
+
+        //allow us to access the database context to perform operations related to game sessions and user data.
         public GameController(UserDbContex db)
         {
             _db = db;
         }
 
+
+        // This method allows a logged-in user to start a new game session.
+        // It creates a new game record in the database with the current user as Player 1 and generates a unique invite code for others to join.
+        // After saving the game, it redirects the user to the game view.
         [HttpGet]
-        public async Task<IActionResult> Start()
+        public async Task<IActionResult> Start() 
         {
             var username = User.Identity?.Name;
             if (string.IsNullOrWhiteSpace(username)) return Unauthorized();
@@ -42,6 +47,9 @@ namespace CheckersWeb.Controllers
             return RedirectToAction("Index", new { gameId = game.Id });
         }
 
+
+        // This method displays the invite page for a specific game session.
+        // It retrieves the game details using the provided game ID and generates an invite URL that can be shared with others to join the game.
         [HttpGet]
         public async Task<IActionResult> Invite(int gameId)
         {
@@ -53,6 +61,8 @@ namespace CheckersWeb.Controllers
             return View();
         }
 
+
+        // This method allows users to join an existing game session using an invite code.
         [AllowAnonymous]
         [HttpGet("/Game/Join/{code}")]
         public async Task<IActionResult> Join(string code)
@@ -68,6 +78,8 @@ namespace CheckersWeb.Controllers
             return View();
         }
 
+
+        // This method processes the acceptance of a game invite.
         [HttpPost("/Game/AcceptInvite/{code}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AcceptInvite(string code)
@@ -93,6 +105,8 @@ namespace CheckersWeb.Controllers
             return RedirectToAction("Index", new { gameId = game.Id });
         }
 
+
+        // This method displays the main game view for a specific game session.
         [HttpGet]
         public async Task<IActionResult> Index(int gameId)
         {

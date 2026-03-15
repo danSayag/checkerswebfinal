@@ -6,6 +6,7 @@ wwwroot\images\blackKing.png
 wwwroot\images\whiteCell.png
 wwwroot\images\whiteKing.png
 wwwroot\js\script.js
+wwwroot\js\sidebar.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -129,3 +130,4 @@ C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\wwwroot\lib\jque
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\wwwroot\js\script.js
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\wwwroot\css\site.css
 C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\wwwroot\css\style.css
+C:\Users\dansa\Desktop\CheckersWeb\checkerswebfinal\CheckersWeb\wwwroot\js\sidebar.js

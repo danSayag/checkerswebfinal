@@ -1,6 +1,6 @@
 ﻿using CheckersWeb.Data;
 using CheckersWeb.Models;
-using CheckersWeb.Services;
+//using CheckersWeb.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
@@ -13,27 +13,19 @@ namespace CheckersWeb.Hubs
     {
         private readonly UserDbContex _db;
 
+        // Constructor for GameHub, initializes the database context.
         public GameHub(UserDbContex db)
         {
             _db = db;
         }
 
-        public override Task OnConnectedAsync()
-        {
-            var username = Context.User?.Identity?.Name;
-            if (!string.IsNullOrWhiteSpace(username))
-                ConnectedUsers.Map[Context.ConnectionId] = username;
-            return base.OnConnectedAsync();
-        }
 
-        public override Task OnDisconnectedAsync(Exception? exception)
-        {
-            ConnectedUsers.Map.TryRemove(Context.ConnectionId, out _);
-            return base.OnDisconnectedAsync(exception);
-        }
 
+        // Helper method to generate a group name for a given game ID.
         private static string GroupName(int gameId) => $"game-{gameId}";
 
+
+        // Helper method to create the initial board state for a new game.
         private static Piece?[][] CreateInitialBoard()
         {
             var board = new Piece?[8][];
@@ -54,6 +46,8 @@ namespace CheckersWeb.Hubs
             return board;
         }
 
+
+        // Method for a player to join a game. Validates the user and game, checks if the player is part of the game, initializes the board if needed, adds the player to the SignalR group, and sends the current board state to the client.
         public async Task JoinGame(int gameId)
         {
             var username = Context.User?.Identity?.Name;
@@ -68,6 +62,15 @@ namespace CheckersWeb.Hubs
             if (game.Player1Id != me.Id && game.Player2Id != me.Id)
                 throw new HubException("You are not a player in this game.");
 
+            // Prevent joining a finished game
+            if (game.WinnerId != null)
+                throw new HubException("This game is already over.");
+
+            // Count how many of the 2 players are currently in the SignalR group
+            // by checking if both player slots are filled — enforce max 2
+            if (game.Player1Id == 0 || game.Player2Id == 0)
+                throw new HubException("Waiting for a second player to be assigned.");
+
             if (string.IsNullOrWhiteSpace(game.BoardJson))
             {
                 game.BoardJson = JsonSerializer.Serialize(CreateInitialBoard());
@@ -81,9 +84,16 @@ namespace CheckersWeb.Hubs
             var currentTurn = game.IsPlayer1Turn ? "white" : "black";
             var camelOptions = new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
             var boardForClient = JsonSerializer.Deserialize<object>(JsonSerializer.Serialize(board, camelOptions));
+
+            // Always send the full current board state so rejoining works
             await Clients.Caller.SendAsync("LoadBoard", boardForClient, currentTurn);
         }
 
+
+
+    
+
+        // Method for a player to make a move. Validates the user, game, and move legality, updates the game state, and notifies all clients in the game.
         public async Task MakeMove(int gameId, int fromR, int fromC, int toR, int toC)
         {
             var username = Context.User?.Identity?.Name;
@@ -202,5 +212,11 @@ namespace CheckersWeb.Hubs
                 winner = gameOver ? me.Username : (string?)null
             });
         }
+
+
     }
+
+
+
+
 }

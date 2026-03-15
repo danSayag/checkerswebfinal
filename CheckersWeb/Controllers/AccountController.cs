@@ -11,7 +11,7 @@ namespace CheckersWeb.Controllers
             return View();
         }
 
-        public async Task<IActionResult> Logout()
+        public async Task<IActionResult> Logout() // This method logs the user out by signing them out of the cookie authentication scheme and then redirects them to the home page.
         {
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
 

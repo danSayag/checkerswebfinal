@@ -4,18 +4,17 @@ using SQLitePCL;
 
 namespace CheckersWeb.Data
 {
-    public class UserDbContex : DbContext
+    // UserDbContex class that inherits from DbContext, representing the database context for the application.
+    public class UserDbContex : DbContext 
     {
         public DbSet<User> users { get; set; }
         public DbSet<Game> Games { get; set; }
 
      
 
-        public UserDbContex(DbContextOptions<UserDbContex> options) : base(options)
-        {
-        }
+        public UserDbContex(DbContextOptions<UserDbContex> options) : base(options){}
 
-
+        // Configures the model relationships and constraints for the Game entity.
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -43,10 +42,6 @@ namespace CheckersWeb.Data
                 .WithMany()
                 .HasForeignKey(g => g.LoserId)
                 .OnDelete(DeleteBehavior.Restrict);
-
-
         }
-
-        
     }
 }

@@ -14,7 +14,7 @@ namespace CheckersWeb.Models
         public int Player1Id { get; set; }
 
         [ForeignKey("Player1Id")]
-        public User Player1 { get; set; }
+        public User? Player1 { get; set; }
 
         // --- Player 2 (Guest) ---
         public int? Player2Id { get; set; }
