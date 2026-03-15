@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\game.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\game.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\hellouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\hellouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\data\\userdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\data\\userdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\game\\invite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,18 +47,6 @@
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\game\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\hellouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\hellouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\game.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\game.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\data\\userdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\data\\userdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\users\\dansa\\desktop\\checkersweb\\checkerswebfinal\\checkersweb\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,12 +146,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1289,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Start.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Start.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Start.cshtml",
@@ -159,12 +167,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Start.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:59:37.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:59:37.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Invite.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Invite.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Invite.cshtml",
@@ -172,12 +179,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Invite.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:50:40.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:50:40.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Join.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Join.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Join.cshtml",
@@ -185,50 +191,50 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Join.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:06:13.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:06:13.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml*",
+              "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-05T08:59:37.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-02T14:20:30.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "CreateUser.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T14:22:33.772Z"
+              "WhenOpened": "2026-03-02T14:22:33.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Models\\User.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\User.cs",
@@ -236,11 +242,12 @@
               "RelativeToolTip": "CheckersWeb\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:19:23.81Z"
+              "WhenOpened": "2026-03-02T14:19:23.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GameHub.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Hubs\\GameHub.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Hubs\\GameHub.cs",
@@ -252,19 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "game.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\game.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\game.cshtml",
               "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\game.cshtml",
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\game.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T16:41:38.752Z"
+              "WhenOpened": "2026-03-02T16:41:38.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\HomeController.cs",
@@ -276,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\AccountController.cs",
@@ -288,28 +296,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\GameController.cs",
               "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
               "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAuwHYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T07:43:23.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "UserDbContex.cs",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Data\\UserDbContex.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Data\\UserDbContex.cs",
               "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Data\\UserDbContex.cs",
               "RelativeToolTip": "CheckersWeb\\Data\\UserDbContex.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:50:51.901Z"
+              "WhenOpened": "2026-03-02T14:50:51.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -337,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Shared\\_Layout.cshtml",
@@ -492,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HelloUser.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\HelloUser.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\HelloUser.cshtml",
@@ -500,7 +509,8 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\HelloUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T15:18:44.978Z"
+              "WhenOpened": "2026-03-02T15:18:44.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -573,6 +583,30 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-02T14:23:13.226Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1011,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

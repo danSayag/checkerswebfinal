@@ -146,9 +146,17 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1289,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -159,8 +167,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Start.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:59:37.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:59:37.2Z"
             },
             {
               "$type": "Document",
@@ -172,8 +179,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Invite.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:50:40.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:50:40.908Z"
             },
             {
               "$type": "Document",
@@ -185,8 +191,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Join.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T09:06:13.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T09:06:13.733Z"
             },
             {
               "$type": "Document",
@@ -198,8 +203,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-05T08:59:37.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T08:59:37.993Z"
             },
             {
               "$type": "Document",
@@ -207,9 +211,9 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "CheckersWeb\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dansa\\Desktop\\CheckersWeb\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CheckersWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-02T14:20:30.761Z",
               "EditorCaption": ""
@@ -296,8 +300,7 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAuwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:43:23.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:43:23.218Z"
             },
             {
               "$type": "Document",
@@ -573,6 +576,30 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-02T14:23:13.226Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1011,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

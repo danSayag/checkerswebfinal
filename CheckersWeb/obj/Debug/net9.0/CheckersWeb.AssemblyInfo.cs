@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7fe12dba6706ad2e2feb2bc0ca0b938f96ee20f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b36e3d77f267b6ee4220754ab850e48da02d07e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,8 +34,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/dansa/Desktop/CheckersWeb/checkerswebfinal/CheckersWeb/Views/Game/Invite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbnZpdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dansa/Desktop/CheckersWeb/checkerswebfinal/CheckersWeb/Views/Game/Join.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxKb2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansa/Desktop/CheckersWeb/checkerswebfinal/CheckersWeb/Views/Game/Start.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dansa/Desktop/CheckersWeb/checkerswebfinal/CheckersWeb/Views/Home/CreateUser.cshtml]
