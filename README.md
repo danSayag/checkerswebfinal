@@ -190,7 +190,9 @@ Kings can:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Dan Sayag**  
+Computer Science Student – Netanya Academic College
+**Tomer Levi**  
 Computer Science Student – Netanya Academic College
