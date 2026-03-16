@@ -12,11 +12,11 @@ namespace CheckersWeb.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly UserDbContex _context;
+        private readonly CheckersDbContext _context;
 
 
         // Constructor for HomeController, initializes the logger and database context.
-        public HomeController(ILogger<HomeController> logger, UserDbContex context)
+        public HomeController(ILogger<HomeController> logger, CheckersDbContext context)
         {
             _logger = logger;
             _context = context;

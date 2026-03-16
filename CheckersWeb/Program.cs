@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Database
-builder.Services.AddDbContext<UserDbContex>(options =>
+builder.Services.AddDbContext<CheckersDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("users")));
 
 // Authentication and Authorization
@@ -34,7 +34,7 @@ var app = builder.Build();
 // ✅ Run migrations (OK here)
 using (var scope = app.Services.CreateScope())
 {
-    var context = scope.ServiceProvider.GetRequiredService<UserDbContex>();
+    var context = scope.ServiceProvider.GetRequiredService<CheckersDbContext>();
     context.Database.Migrate();
 }
 

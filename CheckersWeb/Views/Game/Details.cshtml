@@ -1,0 +1,79 @@
+﻿@model CheckersWeb.Models.Game
+@{
+    ViewData["Title"] = "Game Details";
+    var username = User.Identity?.Name;
+    var opponent = Model.Player1?.Username == username
+        ? Model.Player2?.Username ?? "Unknown"
+        : Model.Player1?.Username ?? "Unknown";
+    var myColor = Model.Player1?.Username == username ? "White" : "Black";
+}
+
+<div style="max-width: 700px; margin: 2rem auto;">
+    <h2>🎮 Game #@Model.Id — Move History</h2>
+
+    <div class="mb-3">
+        <span class="me-3">👤 You: <strong>@username (@myColor)</strong></span>
+        <span class="me-3">⚔️ Opponent: <strong>@opponent</strong></span>
+        <span>
+            Result:
+            @if (Model.WinnerId == null)
+            {
+                <span class="badge bg-warning text-dark">In Progress</span>
+            }
+            else if (Model.Winner?.Username == username)
+            {
+                <span class="badge bg-success">You Won 🏆</span>
+            }
+            else
+            {
+                <span class="badge bg-danger">You Lost</span>
+            }
+        </span>
+    </div>
+
+    @if (!Model.Moves.Any())
+    {
+        <p class="text-muted">No moves were recorded for this game.</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Player</th>
+                    <th>From</th>
+                    <th>To</th>
+                    <th>Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var move in Model.Moves.OrderBy(m => m.MoveNumber))
+                {
+                    // Odd moves = Player1, Even moves = Player2
+                    var mover = move.MoveNumber % 2 != 0
+                    ? Model.Player1?.Username
+                    : Model.Player2?.Username;
+
+                    var isMe = mover == username;
+
+                    <tr class="@(isMe ? "table-primary" : "")">
+                        <td>@move.MoveNumber</td>
+                        <td>
+                            @mover
+                            @if (isMe)
+                            {
+                                <span class="badge bg-primary ms-1">You</span>
+                            }
+                        </td>
+                        <td>@move.From</td>
+                        <td>@move.To</td>
+                        <td>@move.PlayedAt.ToString("HH:mm:ss")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <a asp-controller="Game" asp-action="History" class="btn btn-secondary">← Back to History</a>
+</div>
