@@ -7,25 +7,12 @@
     @if (User.Identity!.IsAuthenticated)
     {
         <h3>Welcome @User.Identity.Name 👋</h3>
-        <a asp-controller="Game" asp-action="Start" class="btn btn-success me-2">
-            + Create Game
-        </a>
-        <a asp-controller="Game" asp-action="History" class="btn btn-outline-primary me-2">
-            📜 My History
-        </a>
-        <a asp-controller="Home" asp-action="Logout" class="btn btn-danger">
-            Logout
-        </a>
     }
     else
     {
-        <a asp-controller="Home" asp-action="CreateUser" class="btn btn-primary me-2">
-            Create Account
-        </a>
-        <a asp-controller="Home" asp-action="Login" class="btn btn-primary">
-            Login
-        </a>
+        <h3>Please Login or Create User</h3>
     }
+
 </div>
 
 @if (User.Identity!.IsAuthenticated)

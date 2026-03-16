@@ -108,6 +108,8 @@ namespace CheckersWeb.Controllers
 
         // This method displays the main game view for a specific game session.
         [HttpGet]
+        [Route("Game")]
+        [Route("Game/Index")]
         public async Task<IActionResult> Index(int gameId)
         {
             var game = await _db.Games
@@ -130,6 +132,8 @@ namespace CheckersWeb.Controllers
             return View(game);
         }
 
+
+        [HttpGet]
         public async Task<IActionResult> History()
         {
             var username = User.Identity?.Name;
@@ -149,6 +153,26 @@ namespace CheckersWeb.Controllers
             return View(gameHistory);
         }
 
+        // delete game if no one other the the user who created it joined
+        [HttpPost]
+        public async Task<IActionResult> Delete(int gameId)
+        {
+            var username = User.Identity?.Name;
+            var me = await _db.users.FirstOrDefaultAsync(u => u.Username == username);
+            if (me == null) return Unauthorized();
+
+            var game = await _db.Games.FirstOrDefaultAsync(g => g.Id == gameId);
+            if (game == null) return NotFound();
+
+            // Only host can delete, and only if no one joined
+            if (game.Player1Id != me.Id) return Forbid();
+            if (game.Player2Id != null) return BadRequest("Cannot delete a game that already has an opponent.");
+
+            _db.Games.Remove(game);
+            await _db.SaveChangesAsync();
+
+            return RedirectToAction("Index", "Home");
+        }
 
         // Shows the move history for a completed game
         [HttpGet]
