@@ -10,11 +10,11 @@ namespace CheckersWeb.Controllers
     [Authorize]
     public class GameController : Controller
     {
-        private readonly UserDbContex _db; 
+        private readonly CheckersDbContext _db;
 
 
         //allow us to access the database context to perform operations related to game sessions and user data.
-        public GameController(UserDbContex db)
+        public GameController(CheckersDbContext db)
         {
             _db = db;
         }
@@ -24,7 +24,7 @@ namespace CheckersWeb.Controllers
         // It creates a new game record in the database with the current user as Player 1 and generates a unique invite code for others to join.
         // After saving the game, it redirects the user to the game view.
         [HttpGet]
-        public async Task<IActionResult> Start() 
+        public async Task<IActionResult> Start()
         {
             var username = User.Identity?.Name;
             if (string.IsNullOrWhiteSpace(username)) return Unauthorized();
@@ -126,6 +126,52 @@ namespace CheckersWeb.Controllers
             ViewBag.MyColor = (me?.Id == game.Player1Id) ? "white" : "black";
             ViewBag.WinnerId = game.WinnerId;
             ViewBag.InviteUrl = $"{Request.Scheme}://{Request.Host}/Game/Join/{game.InviteCode}";
+
+            return View(game);
+        }
+
+        public async Task<IActionResult> History()
+        {
+            var username = User.Identity?.Name;
+            if (string.IsNullOrWhiteSpace(username)) return Unauthorized();
+
+            var me = await _db.users.FirstOrDefaultAsync(u => u.Username == username);
+            if (me == null) return Unauthorized();
+
+            var gameHistory = await _db.Games
+                .Include(g => g.Player1)
+                .Include(g => g.Player2)
+                .Include(g => g.Moves)
+                .Where(g => g.Player1Id == me.Id || g.Player2Id == me.Id)
+                .OrderByDescending(g => g.StartedAt)
+                .ToListAsync();
+
+            return View(gameHistory);
+        }
+
+
+        // Shows the move history for a completed game
+        [HttpGet]
+        public async Task<IActionResult> Details(int gameId)
+        {
+            var username = User.Identity?.Name;
+            if (string.IsNullOrWhiteSpace(username)) return Unauthorized();
+
+            var me = await _db.users.FirstOrDefaultAsync(u => u.Username == username);
+            if (me == null) return Unauthorized();
+
+            var game = await _db.Games
+                .Include(g => g.Player1)
+                .Include(g => g.Player2)
+                .Include(g => g.Winner)
+                .Include(g => g.Moves)
+                .FirstOrDefaultAsync(g => g.Id == gameId);
+
+            if (game == null) return NotFound();
+
+            // Only players of this game can view it
+            if (game.Player1Id != me.Id && game.Player2Id != me.Id)
+                return Forbid();
 
             return View(game);
         }

@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CheckersWeb.Migrations
 {
-    [DbContext(typeof(UserDbContex))]
+    [DbContext(typeof(CheckersDbContext))]
     [Migration("20260304154134_AddBoardJsonToGame")]
     partial class AddBoardJsonToGame
     {

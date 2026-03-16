@@ -6,6 +6,6 @@
     "\\CheckersWeb\\Views\\Game",
     "\\CheckersWeb\\Views\\Home"
   ],
-  "SelectedNode": "\\CheckersWeb\\Views\\Game\\Index.cshtml",
+  "SelectedNode": "\\CheckersWeb\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CheckersWeb.Migrations
 {
-    [DbContext(typeof(UserDbContex))]
+    [DbContext(typeof(CheckersDbContext))]
     [Migration("20260303081436_AddGamesTable")]
     partial class AddGamesTable
     {

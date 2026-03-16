@@ -11,10 +11,10 @@ namespace CheckersWeb.Hubs
     [Authorize]
     public class GameHub : Hub
     {
-        private readonly UserDbContex _db;
+        private readonly CheckersDbContext _db;
 
         // Constructor for GameHub, initializes the database context.
-        public GameHub(UserDbContex db)
+        public GameHub(CheckersDbContext db)
         {
             _db = db;
         }
@@ -70,7 +70,7 @@ namespace CheckersWeb.Hubs
             // by checking if both player slots are filled — enforce max 2
             if (game.Player1Id == 0 || game.Player2Id == 0)
                 throw new HubException("Waiting for a second player to be assigned.");
-
+            
             if (string.IsNullOrWhiteSpace(game.BoardJson))
             {
                 game.BoardJson = JsonSerializer.Serialize(CreateInitialBoard());
