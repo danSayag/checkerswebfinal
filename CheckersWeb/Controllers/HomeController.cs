@@ -99,9 +99,11 @@ namespace CheckersWeb.Controllers
         // Action method for handling the login form submission, checks the user's credentials and signs them in if valid.
         public async Task<IActionResult> loginForm(User model)
         {
+            // Find user by username only, then verify password hash
             var user = _context.users
-                .FirstOrDefault(u => u.Username == model.Username && u.Password == model.Password);
-            if (user != null)
+                .FirstOrDefault(u => u.Username == model.Username);
+
+            if (user != null && BCrypt.Net.BCrypt.Verify(model.Password, user.Password))
             {
                 var claims = new List<Claim>
                 {
@@ -123,6 +125,8 @@ namespace CheckersWeb.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Hash the password before saving to the database
+                model.Password = BCrypt.Net.BCrypt.HashPassword(model.Password);
                 _context.users.Add(model);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
@@ -170,7 +174,4 @@ namespace CheckersWeb.Controllers
             return RedirectToAction("Index");
         }
     }
-
-
-
 }

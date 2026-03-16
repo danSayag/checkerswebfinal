@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FgueZ+OVdmU=",
+  "dgSpecHash": "qaqeOzaqJaI=",
   "success": true,
   "projectFilePath": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\דן סייג\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\דן סייג\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\דן סייג\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\דן סייג\\.nuget\\packages\\microsoft.build.framework\\17.8.43\\microsoft.build.framework.17.8.43.nupkg.sha512",
