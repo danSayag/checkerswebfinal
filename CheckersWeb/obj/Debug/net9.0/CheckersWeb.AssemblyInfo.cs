@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b42ec3b9448987e93f4b4123bdf606b11b9ebe4")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83360fff42abc51aa6dfd947eae99ddb7df0691f")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f286c2923375c6d0b6fbacb8223f90df1c02d08f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckersWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
