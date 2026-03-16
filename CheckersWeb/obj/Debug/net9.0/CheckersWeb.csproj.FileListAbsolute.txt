@@ -893,3 +893,4 @@ C:\temp\taskmanager-main\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\refint\Ch
 C:\temp\taskmanager-main\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\CheckersWeb.pdb
 C:\temp\taskmanager-main\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\CheckersWeb.genruntimeconfig.cache
 C:\temp\taskmanager-main\checkerswebfinal\CheckersWeb\obj\Debug\net9.0\ref\CheckersWeb.dll
+C:\temp\taskmanager-main\checkerswebfinal\CheckersWeb\bin\Debug\net9.0\BCrypt.Net-Next.dll
