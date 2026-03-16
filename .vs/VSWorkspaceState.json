@@ -2,12 +2,19 @@
   "ExpandedNodes": [
     "",
     "\\CheckersWeb",
+<<<<<<< Updated upstream
     "\\CheckersWeb\\Controllers",
+=======
+>>>>>>> Stashed changes
     "\\CheckersWeb\\Models",
     "\\CheckersWeb\\Views",
     "\\CheckersWeb\\Views\\Game",
     "\\CheckersWeb\\Views\\Home"
   ],
+<<<<<<< Updated upstream
   "SelectedNode": "\\CheckersWeb.sln",
+=======
+  "SelectedNode": "\\CheckersWeb\\Models\\User.cs",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
