@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\temp\\taskmanager-main\\checkerswebfinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\game\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|solutionrelative:checkersweb\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DD0BBE-8E65-4C46-85D6-C54DF4416E93}|CheckersWeb\\CheckersWeb.csproj|c:\\temp\\taskmanager-main\\checkerswebfinal\\checkersweb\\data\\checkersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,7 +159,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -167,7 +171,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CheckersWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CheckersWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T17:28:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
+              "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:07:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T09:10:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CheckersWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:27:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "History.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\History.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\History.cshtml",
@@ -175,38 +231,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\History.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:51:38.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:51:38.738Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
-              "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAIBJwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:10:01.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CheckersWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAwwKAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T08:27:10.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Details.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Details.cshtml",
@@ -214,12 +243,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Details.cshtml",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:59:56.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:59:56.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\Index.cshtml",
@@ -227,25 +255,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAH4AAAAAAAAAAAAYwJsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:22:18.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:22:18.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
-              "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAIwLAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:07:40.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "20260316155500_AddStartedAtToGame.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Migrations\\20260316155500_AddStartedAtToGame.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Migrations\\20260316155500_AddStartedAtToGame.cs",
@@ -253,12 +267,11 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260316155500_AddStartedAtToGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:55:00.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:55:00.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CheckersDbContext.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Data\\CheckersDbContext.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Data\\CheckersDbContext.cs",
@@ -266,12 +279,11 @@
               "RelativeToolTip": "CheckersWeb\\Data\\CheckersDbContext.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:50:51.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:50:51.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\AccountController.cs",
@@ -279,12 +291,11 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:35:15.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:35:15.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateUser.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\CreateUser.cshtml",
@@ -292,12 +303,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:03.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:03.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\Game.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\Game.cs",
@@ -305,12 +315,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Game.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T08:05:41.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T08:05:41.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Move.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\Move.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\Move.cs",
@@ -318,12 +327,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Move.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:30:32.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:30:32.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\ErrorViewModel.cs",
@@ -331,12 +339,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:34:13.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:34:13.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Program.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Program.cs",
@@ -344,12 +351,11 @@
               "RelativeToolTip": "CheckersWeb\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:53:45.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:53:45.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GameHub.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Hubs\\GameHub.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Hubs\\GameHub.cs",
@@ -357,12 +363,11 @@
               "RelativeToolTip": "CheckersWeb\\Hubs\\GameHub.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAowNUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T08:42:59.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T08:42:59.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "game.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Home\\game.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\game.cshtml",
@@ -370,12 +375,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\game.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:02.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:02.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\Login.cshtml",
@@ -383,12 +387,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:14.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:14.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\_ViewImports.cshtml",
@@ -396,12 +399,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T14:23:13.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:23:13.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\_ViewStart.cshtml",
@@ -409,12 +411,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T14:23:13.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:23:13.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HelloUser.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Home\\HelloUser.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Home\\HelloUser.cshtml",
@@ -422,12 +423,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\HelloUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T15:18:44.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:18:44.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "style.css",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "CheckersWeb\\wwwroot\\css\\style.css",
@@ -435,12 +435,11 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\css\\style.css",
               "ViewState": "AgIAADYAAAAAAAAAAIBJwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-15T09:19:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:19:08.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "script.js",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "CheckersWeb\\wwwroot\\js\\script.js",
@@ -448,12 +447,11 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\js\\script.js",
               "ViewState": "AgIAAO0AAAAAAAAAAAAswPcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-15T09:19:18.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:19:18.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Piece.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\Piece.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\Piece.cs",
@@ -461,12 +459,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Piece.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:46:58.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T11:46:58.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "site.css",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CheckersWeb\\wwwroot\\css\\site.css",
@@ -474,12 +471,11 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T08:11:03.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:11:03.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\User.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\User.cs",
@@ -487,12 +483,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\User.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA0wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:04:52.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:04:52.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Join.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Game\\Join.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Game\\Join.cshtml",
@@ -500,12 +495,11 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Join.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:10:26.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:10:26.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "20260302162541_InitialCreate.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Migrations\\20260302162541_InitialCreate.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Migrations\\20260302162541_InitialCreate.cs",
@@ -513,12 +507,11 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260302162541_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:03:41.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:03:41.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "GameHub.cs",
               "DocumentMoniker": "C:\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\GameHub.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\GameHub.cs",
@@ -529,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\GameController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\GameController.cs",
@@ -540,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\Game.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\\u05D3\u05DF \u05E1\u05D9\u05D9\u05D2\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\files\\Game.cs",
@@ -551,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "PieceInfo.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\PieceInfo.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\PieceInfo.cs",
@@ -559,12 +552,11 @@
               "RelativeToolTip": "CheckersWeb\\Models\\PieceInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:36:04.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T15:36:04.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20260304154134_AddBoardJsonToGame.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Migrations\\20260304154134_AddBoardJsonToGame.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Migrations\\20260304154134_AddBoardJsonToGame.cs",
@@ -572,12 +564,11 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260304154134_AddBoardJsonToGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:41:34.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T15:41:34.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\appsettings.json",
               "RelativeDocumentMoniker": "CheckersWeb\\appsettings.json",
@@ -585,12 +576,11 @@
               "RelativeToolTip": "CheckersWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-02T16:04:08.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T16:04:08.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CheckersWeb\\Properties\\launchSettings.json",
@@ -598,12 +588,11 @@
               "RelativeToolTip": "CheckersWeb\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-04T08:34:11.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:34:11.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "20260304073327_AddInviteCodeToGames.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Migrations\\20260304073327_AddInviteCodeToGames.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Migrations\\20260304073327_AddInviteCodeToGames.cs",
@@ -611,12 +600,11 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260304073327_AddInviteCodeToGames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T07:33:27.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T07:33:27.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CheckersWeb.csproj",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\CheckersWeb.csproj",
               "RelativeDocumentMoniker": "CheckersWeb\\CheckersWeb.csproj",
@@ -624,12 +612,11 @@
               "RelativeToolTip": "CheckersWeb\\CheckersWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T06:45:20.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T06:45:20.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Shared\\Error.cshtml",
@@ -637,8 +624,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T16:42:04.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T16:42:04.753Z"
             }
           ]
         },

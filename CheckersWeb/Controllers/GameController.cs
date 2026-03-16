@@ -106,6 +106,27 @@ namespace CheckersWeb.Controllers
         }
 
 
+        [HttpPost]
+        public async Task<IActionResult> Delete(int gameId)
+        {
+            var username = User.Identity?.Name;
+            var me = await _db.users.FirstOrDefaultAsync(u => u.Username == username);
+            if (me == null) return Unauthorized();
+
+            var game = await _db.Games.FirstOrDefaultAsync(g => g.Id == gameId);
+            if (game == null) return NotFound();
+
+            // Only host can delete, and only if no one joined
+            if (game.Player1Id != me.Id) return Forbid();
+            if (game.Player2Id != null) return BadRequest("Cannot delete a game that already has an opponent.");
+
+            _db.Games.Remove(game);
+            await _db.SaveChangesAsync();
+
+            return RedirectToAction("Index", "Home");
+        }
+
+
         // This method displays the main game view for a specific game session.
         [HttpGet]
         public async Task<IActionResult> Index(int gameId)

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\temp\\taskmanager-main\\checkerswebfinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckersWeb\\Controllers\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckersWeb\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\GameController.cs",
+              "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:23:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Models\\User.cs",
               "RelativeDocumentMoniker": "CheckersWeb\\Models\\User.cs",
