@@ -175,8 +175,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\History.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:51:38.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:51:38.738Z"
             },
             {
               "$type": "Document",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAIBJwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:10:01.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:10:01.457Z"
             },
             {
               "$type": "Document",
@@ -199,7 +197,7 @@
               "RelativeDocumentMoniker": "CheckersWeb\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CheckersWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAwwKAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAowKAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T08:27:10.59Z",
               "EditorCaption": ""
@@ -214,8 +212,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Details.cshtml",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T15:59:56.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:59:56.601Z"
             },
             {
               "$type": "Document",
@@ -227,8 +224,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAH4AAAAAAAAAAAAYwJsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:22:18.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:22:18.051Z"
             },
             {
               "$type": "Document",
@@ -240,8 +236,7 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAIwLAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:07:40.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:07:40.586Z"
             },
             {
               "$type": "Document",
@@ -253,8 +248,7 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260316155500_AddStartedAtToGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:55:00.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:55:00.326Z"
             },
             {
               "$type": "Document",
@@ -266,8 +260,7 @@
               "RelativeToolTip": "CheckersWeb\\Data\\CheckersDbContext.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:50:51.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:50:51.901Z"
             },
             {
               "$type": "Document",
@@ -279,8 +272,7 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:35:15.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:35:15.534Z"
             },
             {
               "$type": "Document",
@@ -292,8 +284,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\CreateUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:03.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:03.392Z"
             },
             {
               "$type": "Document",
@@ -305,8 +296,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Game.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T08:05:41.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T08:05:41.422Z"
             },
             {
               "$type": "Document",
@@ -318,8 +308,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Move.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:30:32.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:30:32.702Z"
             },
             {
               "$type": "Document",
@@ -331,8 +320,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:34:13.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:34:13.222Z"
             },
             {
               "$type": "Document",
@@ -344,8 +332,7 @@
               "RelativeToolTip": "CheckersWeb\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T14:53:45.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:53:45.381Z"
             },
             {
               "$type": "Document",
@@ -357,8 +344,7 @@
               "RelativeToolTip": "CheckersWeb\\Hubs\\GameHub.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAowNUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T08:42:59.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T08:42:59.648Z"
             },
             {
               "$type": "Document",
@@ -370,8 +356,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\game.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:02.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:02.037Z"
             },
             {
               "$type": "Document",
@@ -383,8 +368,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:37:14.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:37:14.462Z"
             },
             {
               "$type": "Document",
@@ -396,8 +380,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T14:23:13.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:23:13.226Z"
             },
             {
               "$type": "Document",
@@ -409,8 +392,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T14:23:13.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T14:23:13.616Z"
             },
             {
               "$type": "Document",
@@ -422,8 +404,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Home\\HelloUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T15:18:44.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:18:44.978Z"
             },
             {
               "$type": "Document",
@@ -435,8 +416,7 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\css\\style.css",
               "ViewState": "AgIAADYAAAAAAAAAAIBJwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-15T09:19:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:19:08.539Z"
             },
             {
               "$type": "Document",
@@ -448,8 +428,7 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\js\\script.js",
               "ViewState": "AgIAAO0AAAAAAAAAAAAswPcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-15T09:19:18.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:19:18.793Z"
             },
             {
               "$type": "Document",
@@ -461,8 +440,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\Piece.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:46:58.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T11:46:58.546Z"
             },
             {
               "$type": "Document",
@@ -474,8 +452,7 @@
               "RelativeToolTip": "CheckersWeb\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T08:11:03.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:11:03.717Z"
             },
             {
               "$type": "Document",
@@ -487,8 +464,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\User.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA0wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:04:52.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:04:52.568Z"
             },
             {
               "$type": "Document",
@@ -500,8 +476,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Join.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:10:26.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:10:26.349Z"
             },
             {
               "$type": "Document",
@@ -513,8 +488,7 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260302162541_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:03:41.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:03:41.753Z"
             },
             {
               "$type": "Document",
@@ -559,8 +533,7 @@
               "RelativeToolTip": "CheckersWeb\\Models\\PieceInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:36:04.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T15:36:04.04Z"
             },
             {
               "$type": "Document",
@@ -572,8 +545,7 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260304154134_AddBoardJsonToGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:41:34.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T15:41:34.92Z"
             },
             {
               "$type": "Document",
@@ -585,8 +557,7 @@
               "RelativeToolTip": "CheckersWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-02T16:04:08.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T16:04:08.256Z"
             },
             {
               "$type": "Document",
@@ -598,8 +569,7 @@
               "RelativeToolTip": "CheckersWeb\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-04T08:34:11.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:34:11.801Z"
             },
             {
               "$type": "Document",
@@ -611,8 +581,7 @@
               "RelativeToolTip": "CheckersWeb\\Migrations\\20260304073327_AddInviteCodeToGames.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T07:33:27.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T07:33:27.721Z"
             },
             {
               "$type": "Document",
@@ -624,8 +593,7 @@
               "RelativeToolTip": "CheckersWeb\\CheckersWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T06:45:20.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T06:45:20.434Z"
             },
             {
               "$type": "Document",
@@ -637,8 +605,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T16:42:04.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T16:42:04.753Z"
             }
           ]
         },

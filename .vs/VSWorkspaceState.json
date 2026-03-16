@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\CheckersWeb",
+    "\\CheckersWeb\\Controllers",
+    "\\CheckersWeb\\Models",
     "\\CheckersWeb\\Views",
     "\\CheckersWeb\\Views\\Game",
     "\\CheckersWeb\\Views\\Home"
   ],
+  "SelectedNode": "\\CheckersWeb\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
