@@ -177,7 +177,7 @@
               "RelativeDocumentMoniker": "CheckersWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\temp\\taskmanager-main\\checkerswebfinal\\CheckersWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CheckersWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-16T17:28:22.995Z",
               "EditorCaption": ""
@@ -192,8 +192,7 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\GameController.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAiwH4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:07:40.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:07:40.586Z"
             },
             {
               "$type": "Document",
@@ -205,8 +204,7 @@
               "RelativeToolTip": "CheckersWeb\\Views\\Game\\Index.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-15T09:10:01.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:10:01.457Z"
             },
             {
               "$type": "Document",
@@ -218,8 +216,7 @@
               "RelativeToolTip": "CheckersWeb\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAkwG8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T08:27:10.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T08:27:10.59Z"
             },
             {
               "$type": "Document",
